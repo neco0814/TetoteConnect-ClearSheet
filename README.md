@@ -7,3 +7,5 @@
 
 https://github.com/ryuya0124/TtT_ScoreInput の利用が便利です。
 https://github.com/3-show/TetoteConnect-Score を利用してDLしたcsvファイルを読み込んで、自動的にFC・APを埋めることが可能です。
+
+このファイルのバージョンは、テトテコネクトのリリースバージョンと対応しています。
