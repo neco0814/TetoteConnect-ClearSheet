@@ -6,4 +6,4 @@
 クリア状況の確認などにどうぞ。
 
 https://github.com/ryuya0124/TtT_ScoreInput の利用が便利です。
-https://github.com/3-show/TetoteConnect-Scoreを利用してDLしたcsvファイルを読み込んで、自動的にFC・APを埋めることが可能です。
+https://github.com/3-show/TetoteConnect-Score を利用してDLしたcsvファイルを読み込んで、自動的にFC・APを埋めることが可能です。
