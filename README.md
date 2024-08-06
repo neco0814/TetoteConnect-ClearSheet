@@ -10,4 +10,4 @@ https://github.com/3-show/TetoteConnect-Score を利用してDLしたcsvファ�
 
 このファイルのバージョンは、テトテコネクトのリリースバージョンと対応しています。
 
-つくってる人のtwitter(𝕏)： twitter.com/neco_yukahai
+つくってる人のtwitter(𝕏)： https://twitter.com/neco_yukahai
