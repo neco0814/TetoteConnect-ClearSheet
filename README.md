@@ -6,7 +6,7 @@
 クリア状況の確認などにどうぞ。
 
 [TtT_ScoreInput](https://github.com/ryuya0124/TtT_ScoreInput) の利用が便利です。
-[TetoteConnect-Score](https://github.com/3-show/TetoteConnect-Score) を利用してDLしたcsvファイルを読み込んで、自動的にFailed・Cleared・FC・APを埋めることが可能です。
+[TetoteConnect-Score](https://github.com/3-show/TetoteConnect-Score) や[TetoconeScoreDataTool](https://github.com/chespins/TetoconeScoreDataTool)を利用してDLしたcsvファイルを読み込んで、自動的にFailed・Cleared・FC・APを埋めることが可能です。
 
 このファイルのバージョンは、テトテコネクトのリリースバージョンと対応しています。
 
